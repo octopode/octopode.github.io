@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob R. Winnikoff"
-  avatar           : "Winnikoff_picture.jpg"
+  avatar           : "assets/images/Winnikoff_picture.jpg"
   bio              : "NASA Postdoctoral Program fellow, Girguis Lab at Harvard University"
   location         : "Cambridge, MA"
   #email            : 
@@ -117,10 +117,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/octopode"
     - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=eSUUd4AAAAAJ&hl=en"
     - label: "ORCID"
-      icon: "fa-brands fa-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-0197-3205"
 
 # Site Footer
