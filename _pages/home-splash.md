@@ -7,15 +7,20 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+  #actions:
+  #  - label: "Download"
+  #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Deep-sea biochemist,
-NASA Postdoctoral Program fellow
-in the Girguis Lab at Harvard University"
+#excerpt: "Deep-sea biochemist and biophysicist,\n
+#NASA Postdoctoral Program fellow\n
+#in the Girguis Lab at Harvard University"
+excerpt: "Most of the cells on Earth are **deep** under water or rock,\n
+where the pressure is **hundreds of times** what we experience.\n
+_How do those cells work?_"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  # what does "excerpt" mean??
+  - excerpt: "Hello and welcome! I study the biochemistry and biophysics of deep-sea life, with an emphasis on pressure and temperature effects. Since 2022, I have been working as a NASA Postdoctoral Program fellow in the Girguis Lab at Harvard University"
+  #- excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at #malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, #*proin faucibus* voluptate felis id sollicitudin. Centered with #`type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
