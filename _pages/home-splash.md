@@ -14,8 +14,10 @@ header:
 #excerpt: "Deep-sea biochemist and biophysicist,\n
 #NASA Postdoctoral Program fellow\n
 #in the Girguis Lab at Harvard University"
+#NTS: don't forget double space at end of line for line break!
 excerpt: "Most of the cells on Earth are **deep** under water or rock,  
 where the pressure is **hundreds of times** what we experience.  
+
 _How do those cells work?_"
 intro: 
   # what does "excerpt" mean??
